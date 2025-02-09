@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://projects.codewizardshq.com/h332_devops_02/assets/bg_mono.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: rgb(47, 109, 154);
+    font-size:80px;
+    margin-top:20px;
+}
+.content{
+    background-color: rgba(255,255,246,0.6);
+    font-size: 30px;
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+}
+img{
+    width: 170px;
+}
+
+a {
+    border: 5px solid #376497;
+    padding: 15px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color:#305E70;
+}
